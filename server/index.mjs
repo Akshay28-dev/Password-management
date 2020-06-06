@@ -11,8 +11,6 @@ import CredentialsapiRouter from './router/apiroutes/credentialsapi.mjs';
 import CredentialsnormalRouter from './router/normalroutes/Credentialsnormal.mjs';
 import ProfilenormalRouter from './router/normalroutes/profilenormal.mjs';
 
-// import ErrorHandler from './middleware/errorHandling.mjs';
-
 dotenv.config({})
 
 
